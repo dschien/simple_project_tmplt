@@ -1,0 +1,9 @@
+
+local.cfg
+.ipynb_checkpoints/*
+__pycache__/*
+ipynb/.ipynb_checkpoints/*
+output/*
+
+*.DS_STORE
+logs/
